@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1",
+  "name": "exodus",
+  "launch_path": "/index.html",
+  "description": "A framework to build modern Element Manager",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Akshay",
+    "url": "www.avaya.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "exodus",
+      "description": "A framework to build modern Element Manager"
+    }
+  }
+}
